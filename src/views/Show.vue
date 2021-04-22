@@ -1,15 +1,11 @@
 <template>
     <div>
-        <table>
+        <table
+        :data="users">
             <tr>
                 <td>ID</td>
                 <td>姓名</td>
                 <td>性别</td>
-            </tr>
-            <tr v-for="user in users">
-                <td>{{user.id}}</td>
-                <td>{{user.name}}</td>
-                <td>{{user.sex}}</td>
             </tr>
         </table>
     </div>
