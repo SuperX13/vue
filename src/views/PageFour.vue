@@ -1,14 +1,10 @@
 <template>
-    <div>
-        <h1>22222222222</h1>
-
-    </div>
-
+    <h1>44444444444</h1>
 </template>
 
 <script>
     export default {
-
+        name: "PageFour"
     }
 </script>
 

@@ -1,14 +1,10 @@
 <template>
-    <div>
-        <h1>22222222222</h1>
-
-    </div>
-
+    <h1>33333333333</h1>
 </template>
 
 <script>
     export default {
-
+        name: "PageThree"
     }
 </script>
 
